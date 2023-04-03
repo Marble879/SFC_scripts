@@ -1,3 +1,4 @@
+sent.seconds;sent.microseconds;received.seconds;received.microseconds;sampleTimeStamp.seconds;sampleTimeStamp.microseconds;IMULatAcceleration;IMULgtAcceleration;IMUVerAcceleration
 1663765084;47023;1663765084;47047;1663765084;46975;-1.309;-1.1135;9.639
 1663765084;96548;1663765084;96572;1663765084;96500;-1.1815;-1.0965;9.5115
 1663765084;146666;1663765084;146690;1663765084;146623;-1.1815;-1.003;9.6305
